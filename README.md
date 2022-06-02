@@ -1,3 +1,2 @@
 # odin-recipes
-Make a website to display recipes
-Basic HTML skills
+Make a website to display recipe using basic HTML skills
